@@ -3,10 +3,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone (https://github.com/mansour4550/phone-chat-mvp-classic/)
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd phone-chat-mvp-classic
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -41,7 +41,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my whatsUp project?
 
 Yes, you can!
 
